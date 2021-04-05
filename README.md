@@ -8,7 +8,7 @@
   <li>These props are textured with the images from textures directory, and are more or less at the right position / scale / rotation.</li>
   <li>To create a map, you'll have to copy objects from "ressources" collection to "level" collection.</li>
   <li>There's a python script in the Scripting workspace, it converts "level" collection content to an AoTTRC map script.</li>
-  <li>The map script is then printed in Blender console and saved in "maps" directory.</li>
+  <li>The map script is then printed in Blender console and saved in "maps" directory as a .txt file.</li>
 </ul>
 
 <h2>Examples :</h2>

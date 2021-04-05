@@ -12,4 +12,4 @@ A Blender map editor for AoTTG RC
 
 <h2>Exemples :</h2>
 <p>Forestown : First map created with this tool. The map script is available in misc directory.</p>
-![AoTTG Blender Map Editor](https://user-images.githubusercontent.com/58033703/113575784-b2ed1800-961e-11eb-8cf0-8b3cbe3d2801.JPG)
+<img src=https://user-images.githubusercontent.com/58033703/113575784-b2ed1800-961e-11eb-8cf0-8b3cbe3d2801.JPG />

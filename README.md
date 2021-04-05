@@ -1,6 +1,6 @@
 # AoTTG-RC-Blender-Map-Editor
 <h2>A Blender map editor for AoTTG RC</h2>
-<p>For now, this is basically a blend file and a python script.</p>
+<p>This is basically a blend file and a python script.</p>
 <p>Requirements : <a href="https://www.blender.org/download"/>Blender</a> (2.80 or newer)</p>
 <h2>Usage :</h2>
 <ul>

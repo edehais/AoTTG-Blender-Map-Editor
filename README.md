@@ -10,6 +10,6 @@ A Blender map editor for AoTTG RC
   <li>The map script is then printed in Blender console and saved in "maps" directory.</li>
 </ul>
 
-<h2>Exemples :</h2>
-<p>Forestown : First map created with this tool. The map script is available in misc directory.</p>
+<h2>Examples :</h2>
+<p>Forestown : First map made with this tool. The map script is available in misc directory.</p>
 <img src=https://user-images.githubusercontent.com/58033703/113575784-b2ed1800-961e-11eb-8cf0-8b3cbe3d2801.JPG />

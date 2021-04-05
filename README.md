@@ -4,10 +4,10 @@
 <p>Requirements : <a href="https://www.blender.org/download"/>Blender</a> (2.80 or newer)</p>
 <h2>Usage</h2>
 <ul>
-  <li>There is a .blend file (made with Blender 2.90) in the blend directory containing props from AoTTG RC Map Editor.</li>
+  <li>There is a .blend file (made with Blender 2.90) in the blend directory containing props from AoTTG RC map editor.</li>
   <li>These props are textured with the images from textures directory, and are more or less at the right position, scale and rotation.</li>
   <li>To create a map, you'll have to copy these objects from "ressources" collection to "level" collection.</li>
-  <li>There's a python script in the Scripting workspace, it converts "level" collection content to an AoTTRC map script.</li>
+  <li>There's a python script in the Scripting workspace, it converts "level" collection content to an AoTTG RC map script.</li>
   <li>The map script is then printed in Blender console and saved in "maps" directory as a .txt file.</li>
 </ul>
 <h2>Changelog</h2>
